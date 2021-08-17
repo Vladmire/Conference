@@ -272,13 +272,13 @@ button:hover::before {
 .slick-arrow.slick-prev {
   right: 0;
   margin-right: 150px;
-  background: url(images/arrow-prev-red.svg) 0 0 / 70% no-repeat;
+  background: url("images/arrow-prev-red.svg") 0 0 / 70% no-repeat;
   background-position: center;
 }
 .slick-arrow.slick-next {
   right: 0;
   margin-right: 90px;
-  background: url(images/arrow-next-red.svg) 0 0 / 70% no-repeat;
+  background: url("images/arrow-next-red.svg") 0 0 / 70% no-repeat;
   background-position: center;
 }
 .slick-prev:before {
@@ -287,7 +287,7 @@ button:hover::before {
   font-size: 30px;
 }
 .slick-prev:hover {
-  background: url(images/arrow-prev.svg) 0 0 / 70% no-repeat;
+  background: url("images/arrow-prev.svg") 0 0 / 70% no-repeat;
 }
 .slick-next:before {
   content: "";
